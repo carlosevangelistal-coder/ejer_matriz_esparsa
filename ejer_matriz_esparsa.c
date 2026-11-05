@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-typedef struct { //Paso 2
+typedef struct { //Paso 2 representa una sola casilla individual de la matriz
     int fila;
     int col;
     double valor;
